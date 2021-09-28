@@ -1,6 +1,6 @@
 # Awesome-MusicInfomatics
 A curated list of awesome article, tutorial, library, webpage, etc about music informatics.
-Many thanks to all the members of [Openmusicinformatics](openmusicinformatics.slack.com), for sharing tips!! 
+Many thanks to all the members of [Openmusicinformatics](openmusicinformatics.slack.com), for sharing informations!! 
 
 ## Python library
 
@@ -47,7 +47,6 @@ Many thanks to all the members of [Openmusicinformatics](openmusicinformatics.sl
 - Songle https://songle.jp/
 - Spleeter https://github.com/deezer/spleeter
 - lab.js https://lab.js.org/
-- 
 
 ## Datasets
 - Audio Content Analysis http://www.audiocontentanalysis.org/data-sets/
@@ -80,5 +79,6 @@ Many thanks to all the members of [Openmusicinformatics](openmusicinformatics.sl
 ## Awesomes
 - awesome-python-scientific-audio https://github.com/faroit/awesome-python-scientific-audio#music-information-retrieval
 - awesome-music https://github.com/ciconia/awesome-music
+
 ## Other 
 - Music Technology conference list http://conferences.smcnetwork.org/
