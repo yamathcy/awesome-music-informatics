@@ -1,6 +1,6 @@
 # Awesome-MusicInfomatics
 A curated list of awesome article, tutorial, library, webpage, etc about music informatics.
-Many thanks to all the members of [Openmusicinformatics](openmusicinformatics.slack.com), for sharing informations!! 
+Many thanks to all the members of [Openmusicinformatics](openmusicinformatics.slack.com) for sharing informations!! 
 
 ## Python library
 
@@ -38,6 +38,8 @@ Many thanks to all the members of [Openmusicinformatics](openmusicinformatics.sl
 - muzic https://github.com/microsoft/muzic
 - omnizart https://music-and-culture-technology-lab.github.io/omnizart-doc/
 - spotipy https://spotipy.readthedocs.io/en/2.17.1/
+- espnet https://github.com/espnet/espnet
+- DDSP https://magenta.tensorflow.org/ddsp
 
 ## Other Resource 
 - Tony https://www.sonicvisualiser.org/tony/
@@ -61,7 +63,7 @@ Many thanks to all the members of [Openmusicinformatics](openmusicinformatics.sl
 - KAIST, GCT634 (AI613) Fall 2021. Musical Applications of Machine Learning https://mac.kaist.ac.kr/~juhan/gct634/index.html
 - Stanford CCRMA Notes https://musicinformationretrieval.com/
 - Audio Signal Processing for Music Applications https://ja.coursera.org/learn/audio-signal-processing
-
+- ISMIR Tutorials https://ismir.net/resources/tutorials/
 
 ## Review papers
 - Content-Based Music Information Retrieval: Current Directions and Future Challenges, Casey et al., 2008 https://ieeexplore.ieee.org/document/4472077?tp=&arnumber=4472077
