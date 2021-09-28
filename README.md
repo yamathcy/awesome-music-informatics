@@ -37,7 +37,7 @@ A curated list of awesome article, tutorial, library, webpage, etc about music i
 - magenta https://magenta.tensorflow.org/
 - muzic https://github.com/microsoft/muzic
 - omnizart https://music-and-culture-technology-lab.github.io/omnizart-doc/
-
+- spotipy https://spotipy.readthedocs.io/en/2.17.1/
 
 ## Other Resource 
 - Tony https://www.sonicvisualiser.org/tony/
@@ -46,6 +46,8 @@ A curated list of awesome article, tutorial, library, webpage, etc about music i
 - essentia.js https://mtg.github.io/essentia.js/
 - Songle https://songle.jp/
 - Spleeter https://github.com/deezer/spleeter
+- lab.js https://lab.js.org/
+- 
 
 ## Datasets
 - Audio Content Analysis http://www.audiocontentanalysis.org/data-sets/
@@ -53,6 +55,7 @@ A curated list of awesome article, tutorial, library, webpage, etc about music i
 - SigSep Multi-track https://sigsep.github.io/datasets/
 - UPF-MTG datasets https://www.upf.edu/web/mtg/software-datasets
 - paperwithcode https://paperswithcode.com/
+- MCR https://github.com/dharasim/MCR/wiki
 
 ## Book/Lecture/Tutorial
 - Fundamentals of Music Processing https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP (Jupyter notebook: https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
@@ -74,6 +77,8 @@ A curated list of awesome article, tutorial, library, webpage, etc about music i
 - Deep Learning for Audio Signal Processing, Putwins et al., 2019 https://arxiv.org/abs/1905.00078
 - A functional taxonomy of music generation systems, Herremans et al., 2017 https://dl.acm.org/doi/abs/10.1145/3108242?casa_token=qkSGMAo2GgUAAAAA:ojfdHvKlXLB8my1J8Fw3zBlOm7M59H9Meo-RSGsXKzvDJlN3fqsUFhb1fDX2jPismOgjBV8LsQRyBg
 
-
+## Awesomes
+- awesome-python-scientific-audio https://github.com/faroit/awesome-python-scientific-audio#music-information-retrieval
+- awesome-music https://github.com/ciconia/awesome-music
 ## Other 
 - Music Technology conference list http://conferences.smcnetwork.org/
