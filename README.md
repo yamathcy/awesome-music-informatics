@@ -1,48 +1,48 @@
 # Awesome-MusicInfomatics
 A curated list of awesome article, tutorial, library, webpage, etc about music informatics.
-Many thanks to all the members of [Openmusicinformatics](openmusicinformatics.slack.com) for sharing informations!! 
+Many thanks to all the members of Openmusicinformatics (openmusicinformatics.slack.com) for sharing informations!! 
 
 ## Python library
 
 ### Audio
-- Librosa https://librosa.org/
-- madmom https://madmom.readthedocs.io/en/latest/
-- essentia https://essentia.upf.edu/index.html
-- opensmile https://www.audeering.com/opensmile/・pyreaper
-- pyreaper https://github.com/r9y9/pyreaper
-- pyworld https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder
-- crepe https://marl.github.io/crepe/
-- kymatio https://www.kymat.io/
-- pysndfx https://pypi.org/project/pysndfx/
+- Librosa https://librosa.org/ Music and audio analysis
+- madmom https://madmom.readthedocs.io/en/latest/ MIR signal processing
+- essentia https://essentia.upf.edu/index.html MIR signal processing
+- opensmile https://www.audeering.com/opensmile/・pyreaper Audio feature extractor
+- pyreaper https://github.com/r9y9/pyreaper Fundamental frequency estimation
+- pyworld https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder Wrapper of world vocoder
+- crepe https://marl.github.io/crepe/ Fundamental frequency estimation
+- kymatio https://www.kymat.io/ Wavelet scattering transform
+- pysndfx https://pypi.org/project/pysndfx/ audio effect
 
 ### Symbolic
-- music21 https://web.mit.edu/music21/
-- pretty-midi https://craffel.github.io/pretty-midi/
-- mido https://mido.readthedocs.io/en/latest/
-- pypianoroll https://salu133445.github.io/pypianoroll/
-- muspy https://github.com/salu133445/muspy
+- music21 https://web.mit.edu/music21/ Musicxml handling and musicological analysis
+- pretty-midi https://craffel.github.io/pretty-midi/ Midi data io
+- mido https://mido.readthedocs.io/en/latest/ Midi data io
+- pypianoroll https://salu133445.github.io/pypianoroll/ Piano-roll
+- muspy https://github.com/salu133445/muspy Music generation pipeline
 
 ### Deep learning
-- Torchaudio https://pytorch.org/audio/stable/index.html
-- tf.signal https://www.tensorflow.org/api_docs/python/tf/signal
-- kapre https://github.com/keunwoochoi/kapre
-- nnAudio https://github.com/KinWaiCheuk/nnAudio
+- Torchaudio https://pytorch.org/audio/stable/index.html Audio library with pytorch
+- tf.signal https://www.tensorflow.org/api_docs/python/tf/signal Audio library with tensorflow
+- kapre https://github.com/keunwoochoi/kapre Audio library with tensorflow
+- nnAudio https://github.com/KinWaiCheuk/nnAudio Audio library with pytorch 
 
 ### Other 
-- mir_eval https://craffel.github.io/mir_eval/
-- mirdata https://github.com/mir-dataset-loaders/mirdata
-- musdb https://github.com/sigsep/sigsep-mus-db
-- nussl https://github.com/nussl/nussl
-- pyroomacoustics https://github.com/LCAV/pyroomacoustics
-- magenta https://magenta.tensorflow.org/
-- muzic https://github.com/microsoft/muzic
-- omnizart https://music-and-culture-technology-lab.github.io/omnizart-doc/
-- spotipy https://spotipy.readthedocs.io/en/2.17.1/
-- espnet https://github.com/espnet/espnet
-- DDSP https://magenta.tensorflow.org/ddsp
+- mir_eval https://craffel.github.io/mir_eval/ Evaluation of MIR tasks
+- mirdata https://github.com/mir-dataset-loaders/mirdata Dataset handling
+- musdb https://github.com/sigsep/sigsep-mus-db MUS-DB interface
+- nussl https://github.com/nussl/nussl Music source separation
+- pyroomacoustics https://github.com/LCAV/pyroomacoustics Audio Separation
+- magenta https://magenta.tensorflow.org/ Music creation library from Google
+- muzic https://github.com/microsoft/muzic Music creation library from Microsoft
+- omnizart https://music-and-culture-technology-lab.github.io/omnizart-doc/ Musical transcription library
+- spotipy https://spotipy.readthedocs.io/en/2.17.1/ Wrapper of spotify API
+- espnet https://github.com/espnet/espnet Library for sppech tasks
+- DDSP https://magenta.tensorflow.org/ddsp Differentiable Digital Signal Processing
 
 ## Other Resource 
-- Tony https://www.sonicvisualiser.org/tony/
+- Tony https://www.sonicvisualiser.org/tony/ 
 - Sonic Visualiser https://www.sonicvisualiser.org/documentation.html
 - sox http://sox.sourceforge.net/
 - essentia.js https://mtg.github.io/essentia.js/
@@ -77,10 +77,18 @@ Many thanks to all the members of [Openmusicinformatics](openmusicinformatics.sl
 - Music performance analysis: A survey, Lerch et al., 2020 https://transactions.ismir.net/articles/10.5334/tismir.53/
 - Deep Learning for Audio Signal Processing, Putwins et al., 2019 https://arxiv.org/abs/1905.00078
 - A functional taxonomy of music generation systems, Herremans et al., 2017 https://dl.acm.org/doi/abs/10.1145/3108242?casa_token=qkSGMAo2GgUAAAAA:ojfdHvKlXLB8my1J8Fw3zBlOm7M59H9Meo-RSGsXKzvDJlN3fqsUFhb1fDX2jPismOgjBV8LsQRyBg
+- Automatic Melody Harmonization with Triad Chords: A Comparative Study, Yeh et al., 2021 https://arxiv.org/pdf/2001.02360.pdf
 
 ## Awesomes
+- awesome-awesome https://github.com/sindresorhus/awesome
 - awesome-python-scientific-audio https://github.com/faroit/awesome-python-scientific-audio#music-information-retrieval
 - awesome-music https://github.com/ciconia/awesome-music
+- awesome-sheet-music https://github.com/ad-si/awesome-sheet-music
+- awesome-audio-visualization https://github.com/willianjusten/awesome-audio-visualization
+- awesome-deep-learning-music https://github.com/ybayle/awesome-deep-learning-music
+- awesome-web-audio https://github.com/notthetup/awesome-webaudio
+- awesome-musicdsp https://github.com/olilarkin/awesome-musicdsp
+- awesome-data-labeling https://github.com/heartexlabs/awesome-data-labeling
 
 ## Other 
 - Music Technology conference list http://conferences.smcnetwork.org/
