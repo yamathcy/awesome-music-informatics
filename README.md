@@ -1,6 +1,7 @@
 # Awesome-MusicInfomatics
 A curated list of awesome article, tutorial, library, webpage, etc about music informatics.
 Many thanks to all the members of Openmusicinformatics (openmusicinformatics.slack.com) for sharing informations!! 
+If you want to add new information to this list, please inform at issues.
 
 ## Python library
 
@@ -64,6 +65,7 @@ Many thanks to all the members of Openmusicinformatics (openmusicinformatics.sla
 - Stanford CCRMA Notes https://musicinformationretrieval.com/
 - Audio Signal Processing for Music Applications https://ja.coursera.org/learn/audio-signal-processing
 - ISMIR Tutorials https://ismir.net/resources/tutorials/
+- Handbook of Artificial Intelligence for Music: Foundations, Advanced Approaches, and Developments for Creativity https://www.springer.com/gp/book/9783030721152 
 
 ## Review papers
 - Content-Based Music Information Retrieval: Current Directions and Future Challenges, Casey et al., 2008 https://ieeexplore.ieee.org/document/4472077?tp=&arnumber=4472077
@@ -92,3 +94,4 @@ Many thanks to all the members of Openmusicinformatics (openmusicinformatics.sla
 
 ## Other 
 - Music Technology conference list http://conferences.smcnetwork.org/
+- ISMIR community https://ismir.net/about/
