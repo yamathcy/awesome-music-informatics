@@ -15,6 +15,7 @@ If you want to add new information to this list, please inform at issues.
 - crepe https://marl.github.io/crepe/ Fundamental frequency estimation
 - kymatio https://www.kymat.io/ Wavelet scattering transform
 - pysndfx https://pypi.org/project/pysndfx/ audio effect
+- nnmnkwii https://github.com/r9y9/nnmnkwii speech synthesis
 
 ### Symbolic
 - music21 https://web.mit.edu/music21/ Musicxml handling and musicological analysis
@@ -22,6 +23,7 @@ If you want to add new information to this list, please inform at issues.
 - mido https://mido.readthedocs.io/en/latest/ Midi data io
 - pypianoroll https://salu133445.github.io/pypianoroll/ Piano-roll
 - muspy https://github.com/salu133445/muspy Music generation pipeline
+- miditok https://github.com/Natooz/MidiTok MIDI tokenization for DNNs
 
 ### Deep learning
 - Torchaudio https://pytorch.org/audio/stable/index.html Audio library with pytorch
@@ -41,6 +43,7 @@ If you want to add new information to this list, please inform at issues.
 - spotipy https://spotipy.readthedocs.io/en/2.17.1/ Wrapper of spotify API
 - espnet https://github.com/espnet/espnet Library for sppech tasks
 - DDSP https://magenta.tensorflow.org/ddsp Differentiable Digital Signal Processing
+- ALTA https://github.com/emirdemirel/ALTA Music lyric transcription recipe
 
 ## Other Resource 
 - Tony https://www.sonicvisualiser.org/tony/ 
@@ -50,6 +53,10 @@ If you want to add new information to this list, please inform at issues.
 - Songle https://songle.jp/
 - Spleeter https://github.com/deezer/spleeter
 - lab.js https://lab.js.org/
+- wavesurfer.js https://wavesurfer-js.org/
+- WebAudio API https://developer.mozilla.org/ja/docs/Web/API/Web_Audio_API
+- curio audio annotator https://github.com/CrowdCurio/audio-annotator
+- Demucs https://github.com/facebookresearch/demucs
 
 ## Datasets
 - Audio Content Analysis http://www.audiocontentanalysis.org/data-sets/
@@ -58,6 +65,7 @@ If you want to add new information to this list, please inform at issues.
 - UPF-MTG datasets https://www.upf.edu/web/mtg/software-datasets
 - paperwithcode https://paperswithcode.com/
 - MCR https://github.com/dharasim/MCR/wiki
+- FMA: A Dataset For Music Analysis https://github.com/mdeff/fma
 
 ## Book/Lecture/Tutorial
 - Fundamentals of Music Processing https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP (Jupyter notebook: https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
@@ -80,6 +88,7 @@ If you want to add new information to this list, please inform at issues.
 - Deep Learning for Audio Signal Processing, Putwins et al., 2019 https://arxiv.org/abs/1905.00078
 - A functional taxonomy of music generation systems, Herremans et al., 2017 https://dl.acm.org/doi/abs/10.1145/3108242?casa_token=qkSGMAo2GgUAAAAA:ojfdHvKlXLB8my1J8Fw3zBlOm7M59H9Meo-RSGsXKzvDJlN3fqsUFhb1fDX2jPismOgjBV8LsQRyBg
 - Automatic Melody Harmonization with Triad Chords: A Comparative Study, Yeh et al., 2021 https://arxiv.org/pdf/2001.02360.pdf
+- A Survey on Recent Deep Learning-driven Singing Voice Synthesis Systems, Cho et al., 2021 https://arxiv.org/pdf/2110.02511.pdf 
 
 ## Awesomes
 - awesome-awesome https://github.com/sindresorhus/awesome
