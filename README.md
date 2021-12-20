@@ -9,7 +9,7 @@ If you want to add new information to this list, please inform at issues.
 - Librosa https://librosa.org/ Music and audio analysis
 - madmom https://madmom.readthedocs.io/en/latest/ MIR signal processing
 - essentia https://essentia.upf.edu/index.html MIR signal processing
-- opensmile https://www.audeering.com/opensmile/・pyreaper Audio feature extractor
+- opensmile https://www.audeering.com/opensmile/ Audio feature extractor
 - pyreaper https://github.com/r9y9/pyreaper Fundamental frequency estimation
 - pyworld https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder Wrapper of world vocoder
 - crepe https://marl.github.io/crepe/ Fundamental frequency estimation
