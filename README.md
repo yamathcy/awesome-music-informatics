@@ -1,3 +1,4 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # Awesome Music Infomatics
 A curated list of awesome article, tutorial, library, webpage, etc about music informatics.
 Many thanks to all the members of Openmusicinformatics (openmusicinformatics.slack.com) for sharing informations!! 
