@@ -25,6 +25,8 @@ If you want to add new information to this list, please inform at issues.
 - pypianoroll https://salu133445.github.io/pypianoroll/ Piano-roll
 - muspy https://github.com/salu133445/muspy Music generation pipeline
 - miditok https://github.com/Natooz/MidiTok MIDI tokenization for DNNs
+- miditoolkit: https://github.com/YatingMusic/miditoolkit MIDI parser for handling both eventswith symbolic timing and piano-rolls
+- note_seq https://github.com/magenta/note-seq MIDI data manipulating and converting for for ML model training (e.g., one-hot tensors)
 
 ### Deep learning
 - Torchaudio https://pytorch.org/audio/stable/index.html Audio library with pytorch
@@ -45,11 +47,13 @@ If you want to add new information to this list, please inform at issues.
 - espnet https://github.com/espnet/espnet Library for sppech tasks
 - DDSP https://magenta.tensorflow.org/ddsp Differentiable Digital Signal Processing
 - ALTA https://github.com/emirdemirel/ALTA Music lyric transcription recipe
+- Muskit https://github.com/SJTMusicTeam/Muskits Open-source music processing toolkits
 
 ## Other Resource 
 - Tony https://www.sonicvisualiser.org/tony/ 
 - Sonic Visualiser https://www.sonicvisualiser.org/documentation.html
 - sox http://sox.sourceforge.net/
+- AMPACT https://ampact.tumblr.com/
 - essentia.js https://mtg.github.io/essentia.js/
 - Songle https://songle.jp/
 - Spleeter https://github.com/deezer/spleeter
@@ -75,10 +79,12 @@ If you want to add new information to this list, please inform at issues.
 - Audio Signal Processing for Music Applications https://ja.coursera.org/learn/audio-signal-processing
 - ISMIR Tutorials https://ismir.net/resources/tutorials/
 - Handbook of Artificial Intelligence for Music: Foundations, Advanced Approaches, and Developments for Creativity https://www.springer.com/gp/book/9783030721152 
+- Deep Learning Techniques for Music Generation: https://link.springer.com/book/10.1007/978-3-319-70163-9
 
 ## Review papers
 - Content-Based Music Information Retrieval: Current Directions and Future Challenges, Casey et al., 2008 https://ieeexplore.ieee.org/document/4472077?tp=&arnumber=4472077
-- Music Information Retrieval: Recent Developments and Applications, Schedl et al, 2014 https://www.nowpublishers.com/article/Details/INR-042 
+- A Survey of Music Recommendation Systems and Future Perspectives Song et al., 2012 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.414.6614&rep=rep1&type=pdf
+- Music Information Retrieval: Recent Developments and Applications, Schedl et al., 2014 https://www.nowpublishers.com/article/Details/INR-042 
 - Automatic Music Transcription: An Overview, Benetos et al., 2018 https://ieeexplore.ieee.org/document/8588423
 - Musical Source Separation: An Introduction, Cano et al., 2018 https://ieeexplore.ieee.org/document/8588410
 - Deep Learning for Audio-Based Music Classification and Tagging: Teaching Computers to Distinguish Rock from Bach, Nam et al., 2018 https://ieeexplore.ieee.org/document/8588424
@@ -90,6 +96,9 @@ If you want to add new information to this list, please inform at issues.
 - A functional taxonomy of music generation systems, Herremans et al., 2017 https://dl.acm.org/doi/abs/10.1145/3108242?casa_token=qkSGMAo2GgUAAAAA:ojfdHvKlXLB8my1J8Fw3zBlOm7M59H9Meo-RSGsXKzvDJlN3fqsUFhb1fDX2jPismOgjBV8LsQRyBg
 - Automatic Melody Harmonization with Triad Chords: A Comparative Study, Yeh et al., 2021 https://arxiv.org/pdf/2001.02360.pdf
 - A Survey on Recent Deep Learning-driven Singing Voice Synthesis Systems, Cho et al., 2021 https://arxiv.org/pdf/2110.02511.pdf 
+- Music Composition with Deep Learning: A Review, Hernandez-Olivan et al., 2021 https://arxiv.org/abs/2108.12290
+- Melody Extraction from Polyphonic Music by Deep Learning Approaches: A Review Reddy M et al., 2022 https://arxiv.org/pdf/2202.01078.pdf
+- 20th Anniversary of ISMIR, 2019. https://transactions.ismir.net/collections/special/20th-anniversary-of-ismir/
 
 ## Awesomes
 - awesome-awesome https://github.com/sindresorhus/awesome
