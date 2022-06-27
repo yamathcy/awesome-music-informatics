@@ -62,6 +62,8 @@ If you want to add new information to this list, please inform at issues.
 - WebAudio API https://developer.mozilla.org/ja/docs/Web/API/Web_Audio_API
 - curio audio annotator https://github.com/CrowdCurio/audio-annotator
 - Demucs https://github.com/facebookresearch/demucs
+- Basic Pitch https://basicpitch.spotify.com/
+- Meyda https://github.com/meyda/meyda
 
 ## Datasets
 - Audio Content Analysis http://www.audiocontentanalysis.org/data-sets/
@@ -80,6 +82,12 @@ If you want to add new information to this list, please inform at issues.
 - ISMIR Tutorials https://ismir.net/resources/tutorials/
 - Handbook of Artificial Intelligence for Music: Foundations, Advanced Approaches, and Developments for Creativity https://www.springer.com/gp/book/9783030721152 
 - Deep Learning Techniques for Music Generation: https://link.springer.com/book/10.1007/978-3-319-70163-9
+- Preparation Course Python Notebooks https://github.com/meinardmueller/PCP
+- Audio content analysis https://www.audiocontentanalysis.org/
+- A tutorial on AI music composition https://www.microsoft.com/en-us/research/uploads/prod/2021/10/Tutorial-on-AI-Music-Composition-@ACM-MM-2021.pdf
+- Open Source Tools & Data for Music Source Separation https://source-separation.github.io/tutorial/intro/src_sep_101.html
+- Music-Recommendation-Tutorial-2017 https://www.slideshare.net/FabienGouyon/musicrecommendationtutorial2017
+- Music and Human-Computer Interaction https://link.springer.com/book/10.1007/978-1-4471-2990-5
 
 ## Review papers
 - Content-Based Music Information Retrieval: Current Directions and Future Challenges, Casey et al., 2008 https://ieeexplore.ieee.org/document/4472077?tp=&arnumber=4472077
@@ -99,6 +107,12 @@ If you want to add new information to this list, please inform at issues.
 - Music Composition with Deep Learning: A Review, Hernandez-Olivan et al., 2021 https://arxiv.org/abs/2108.12290
 - Melody Extraction from Polyphonic Music by Deep Learning Approaches: A Review Reddy M et al., 2022 https://arxiv.org/pdf/2202.01078.pdf
 - 20th Anniversary of ISMIR, 2019. https://transactions.ismir.net/collections/special/20th-anniversary-of-ismir/
+- Music Emotion Recognition: Toward new, robust standards in personalized and context-sensitive applications., Gómez-Cañón et al., 2021
+https://github.com/juansgomez87/datasets_emotion, https://ieeexplore.ieee.org/document/9591555
+- A Survey of Music Visualization Techniques., Lima et al., 2021 https://dl.acm.org/doi/pdf/10.1145/3461835
+- Expression Control in Singing Voice Synthesis: Features, approaches, evaluation, and challenges., Bonada et al. 2015 https://ieeexplore.ieee.org/abstract/document/7298564
+- A Comprehensive Survey on Deep Music Generation: Multi-level Representations, Algorithms, Evaluations, and Future Directions Ji et al., 2020 https://arxiv.org/abs/2011.06801
+- TOWARDS A (BETTER) DEFINITION OF THE DESCRIPTION OF ANNOTATED MIR CORPORA., Peeters et al., 2012 https://ismir2012.ismir.net/event/papers/025_ISMIR_2012.pdf 
 
 ## Awesomes
 - awesome-awesome https://github.com/sindresorhus/awesome
