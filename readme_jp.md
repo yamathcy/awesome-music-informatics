@@ -62,8 +62,8 @@
 - wavesurfer.js https://wavesurfer-js.org/ WEB上で音楽信号を可視化できるJSライブラリ
 - WebAudio API https://developer.mozilla.org/ja/docs/Web/API/Web_Audio_API WEB上で音ファイルを扱うためのライブラリ
 - curio audio annotator https://github.com/CrowdCurio/audio-annotator WEB上で環境音分析のアノテーションを行う
-- Demucs https://github.com/facebookresearch/demucs　音楽音源分離
-- Basic Pitch https://basicpitch.spotify.com/　ブラウザ内で完結可能なピッチ解析
+- Demucs https://github.com/facebookresearch/demucs　 音楽音源分離
+- Basic Pitch https://basicpitch.spotify.com/　 ブラウザ内で完結可能なピッチ解析
 - Meyda https://github.com/meyda/meyda WEB上で音響特徴量を解析可能なJSライブラリ
 - :jp: TextALIVE https://textalive.jp/ 歌詞に基づくコンテンツ支援サービス
 - :jp: Songrium https://songrium.jp/ 音楽視聴支援サービス
