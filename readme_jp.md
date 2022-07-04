@@ -35,7 +35,8 @@
 - tf.signal https://www.tensorflow.org/api_docs/python/tf/signal Tensorflow用の音声処理ライブラリ
 - kapre https://github.com/keunwoochoi/kapre Tensorflow用の音声処理ライブラリ
 - nnAudio https://github.com/KinWaiCheuk/nnAudio Pytorch用の音声処理ライブラリ　（リポジトリ内，↑でサポートする音声の特徴表現のリスト有）
-### Other 
+
+### その他のライブラリ
 - mir_eval https://craffel.github.io/mir_eval/ 自動採譜，メロディ検出，ビート認識などのタスクの評価と，アノテーションファイルのIO
 - mirdata https://github.com/mir-dataset-loaders/mirdata 音楽情報処理のデータセットのハンドリング
 - musdb https://github.com/sigsep/sigsep-mus-db 音楽音源分離データセットMUS-DBのインターフェース
@@ -102,7 +103,7 @@
 - :jp: 音楽はAI×トークンで扱おう！ by ヤマハ 鈴木正博様 https://speakerdeck.com/suzuqn/muana-20220629
 - :jp: Pythonで学ぶ音楽信号分析と音楽アプリ開発 by Kurene様 https://www.wizard-notes.com/music-analysis
 
-## Review papers
+## サーベイ論文等
 - Content-Based Music Information Retrieval: Current Directions and Future Challenges, Casey et al., 2008 https://ieeexplore.ieee.org/document/4472077?tp=&arnumber=4472077　音楽ファイルの”中身”に基づいて音楽を処理し，情報検索へ用いる，Content-based MIRについてのサーベイ
 - A Survey of Music Recommendation Systems and Future Perspectives Song et al., 2012 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.414.6614&rep=rep1&type=pdf　音楽推薦システムのサーベイ
 - Music Information Retrieval: Recent Developments and Applications, Schedl et al., 2014 https://www.nowpublishers.com/article/Details/INR-042 音楽情報検索のサーベイ
