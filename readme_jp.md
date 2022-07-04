@@ -147,7 +147,7 @@ https://github.com/juansgomez87/datasets_emotion, https://ieeexplore.ieee.org/do
 
 ## その他
 - Music Technology conference list http://conferences.smcnetwork.org/ 音楽・音関係の国際会議の日程のリスト
-- ISMIR community https://ismir.net/about/　国際会議ISMIRのグループ
+- ISMIR community https://ismir.net/about/  国際会議ISMIRのグループ
 - :jp: 音楽情報科学研究会（SIGMUS） http://www.sigmus.jp/
 - :jp: 統計的文法理論と構成的意味論に基づく音楽理解の計算モデル https://www.jaist.ac.jp/is/labs/tojo-lab/kiban-A/index.html
 - :jp: OngaCREST https://ongacrest.jp/
