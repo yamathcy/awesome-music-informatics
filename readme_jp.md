@@ -88,9 +88,9 @@
 - Deep Learning Techniques for Music Generation: https://link.springer.com/book/10.1007/978-3-319-70163-9 深層学習ベースの音楽生成をまとめたもの．
 - Preparation Course Python Notebooks https://github.com/meinardmueller/PCP 信号処理の基礎をまとめたもの．Jupyter notebookつき．
 - Audio content analysis https://www.audiocontentanalysis.org/ 音データの分析方法について記述されたもの．
-- A tutorial on AI music composition https://www.microsoft.com/en-us/research/uploads/prod/2021/10/Tutorial-on-AI-Music-Composition-@ACM-MM-2021.pdf 国際会議ACMMM2021で行われた，深層学習ベースの音楽生成のチュートリアル． 
-- Open Source Tools & Data for Music Source Separation https://source-separation.github.io/tutorial/intro/src_sep_101.html 音楽音源分離のチュートリアル．
-- Music-Recommendation-Tutorial-2017 https://www.slideshare.net/FabienGouyon/musicrecommendationtutorial2017　音楽推薦のチュートリアル
+- A tutorial on AI music composition https://www.microsoft.com/en-us/research/uploads/prod/2021/10/Tutorial-on-AI-Music-Composition-@ACM-MM-2021.pdf  国際会議ACMMM2021で行われた，深層学習ベースの音楽生成のチュートリアル． 
+- Open Source Tools & Data for Music Source Separation https://source-separation.github.io/tutorial/intro/src_sep_101.html   音楽音源分離のチュートリアル．
+- Music-Recommendation-Tutorial-2017 https://www.slideshare.net/FabienGouyon/musicrecommendationtutorial2017　  音楽推薦のチュートリアル
 - Music and Human-Computer Interaction https://link.springer.com/book/10.1007/978-1-4471-2990-5　音楽とヒューマンコンピュータインタラクション（HCI）の融合研究の事例集．
 - :jp: ONGAACCELシンポジウム2020 https://www.youtube.com/watch?v=mmGCFzQFbJg プロジェクト「ONGA ACCEL（「次世代メディアコンテンツ生態系技術の基盤構築と応用展開）」の研究成果の公開シンポジウム
 - :jp: Pythonで学ぶ音源分離 https://book.impress.co.jp/books/1119101154 
