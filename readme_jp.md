@@ -48,7 +48,7 @@
 - spotipy https://spotipy.readthedocs.io/en/2.17.1/ spotify APIのpythonラッパー
 - espnet https://github.com/espnet/espnet 各種音声処理のためのツールキット
 - DDSP https://magenta.tensorflow.org/ddsp 微分可能信号処理DDSP
-- ALTA https://github.com/emirdemirel/ALTA 歌詞認識のツールきっと
+- ALTA https://github.com/emirdemirel/ALTA 歌詞認識のツールキット
 - Muskit https://github.com/SJTMusicTeam/Muskits 各種音楽情報処理のためのツールキット（現在開発中，2022年7月，歌声合成のみに対応）
 
 ## その他のソフトウェア・ライブラリ・WEBサイト等
@@ -68,8 +68,9 @@
 - Meyda https://github.com/meyda/meyda WEB上で音響特徴量を解析可能なJSライブラリ
 - :jp: TextALIVE https://textalive.jp/ 歌詞に基づくコンテンツ支援サービス
 - :jp: Songrium https://songrium.jp/ 音楽視聴支援サービス
+- :jp: CREEVO https://creevo-music.com/  自動作曲システム
 
-## データセット
+## データセット (データセットのリスト含)
 - Audio Content Analysis http://www.audiocontentanalysis.org/data-sets/
 - ISMIR Datasets https://ismir.net/resources/datasets/
 - SigSep Multi-track https://sigsep.github.io/datasets/
@@ -102,6 +103,8 @@
 - :jp: 東京大学 応用音響学 2005 by 嵯峨山茂樹先生 https://ocw.u-tokyo.ac.jp/course_11270/
 - :jp: 音楽はAI×トークンで扱おう！ by ヤマハ 鈴木正博様 https://speakerdeck.com/suzuqn/muana-20220629
 - :jp: Pythonで学ぶ音楽信号分析と音楽アプリ開発 by Kurene様 https://www.wizard-notes.com/music-analysis
+- :jp: 東京大学 信号処理得論 by 中村友彦先生  https://tomohikonakamura.github.io/Tomohiko-Nakamura/lecture.html
+- :jp: GTTM(Generative Theory of Tonal Music)  https://gttm.jp/hamanaka/exgttm/
 
 ## サーベイ論文等
 - Content-Based Music Information Retrieval: Current Directions and Future Challenges, Casey et al., 2008 https://ieeexplore.ieee.org/document/4472077?tp=&arnumber=4472077  音楽ファイルの”中身”に基づいて音楽を処理し，情報検索へ用いる，Content-based MIRについてのサーベイ
@@ -146,13 +149,23 @@ https://github.com/juansgomez87/datasets_emotion, https://ieeexplore.ieee.org/do
 - awesome-musicdsp https://github.com/olilarkin/awesome-musicdsp
 - awesome-data-labeling https://github.com/heartexlabs/awesome-data-labeling
 
+## Github リポジトリ
+- Art with AI cource https://github.com/mathigatti/ArtWithAICourse
+- Music creation with DL https://github.com/umbrellabeach/music-generation-with-DL
+- Hands on music generation with magenta https://github.com/PacktPublishing/hands-on-music-generation-with-magenta
+- :jp: 音声情報処理n本ノックをめざして　https://github.com/tam17aki/speech_process_exercise
+- :jp: 東京都市大学 小野研究室 音響信号処理基礎勉強会 https://github.com/onolab-tmu/asp-tutorial-2022
+- :jp: 「Songle APIではじめる音楽情報処理ウェブプログラミング入門本」の紹介ページ https://github.com/SongleJp/tbf-songle-api
+
 ## その他
 - Music Technology conference list http://conferences.smcnetwork.org/ 音楽・音関係の国際会議の日程のリスト
 - ISMIR community https://ismir.net/about/  国際会議ISMIRのグループ
+- ISMIR 2021 Lab showcase https://ismir2021.ismir.net/labshowcase/  ISMIR2021の企画"Lab Showcase" (全世界の音楽情報検索関連の研究機関・研究室の紹介)
 - :jp: 音楽情報科学研究会（SIGMUS） http://www.sigmus.jp/
 - :jp: 統計的文法理論と構成的意味論に基づく音楽理解の計算モデル https://www.jaist.ac.jp/is/labs/tojo-lab/kiban-A/index.html
 - :jp: OngaCREST https://ongacrest.jp/
 - :jp: OngaACCEL https://ongaaccel.jp/
+- :jp: SIGMUS関連の大学・研究機関 http://www.sigmus.jp/?page_id=1312  (注:情報は2010年代前半ごろのものである)
 
 ## License
 
