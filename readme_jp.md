@@ -103,7 +103,7 @@
 - :jp: 東京大学 応用音響学 2005 by 嵯峨山茂樹先生 https://ocw.u-tokyo.ac.jp/course_11270/
 - :jp: 音楽はAI×トークンで扱おう！ by ヤマハ 鈴木正博様 https://speakerdeck.com/suzuqn/muana-20220629
 - :jp: Pythonで学ぶ音楽信号分析と音楽アプリ開発 by Kurene様 https://www.wizard-notes.com/music-analysis
-- :jp: 東京大学 信号処理得論 by 中村友彦先生  https://tomohikonakamura.github.io/Tomohiko-Nakamura/lecture.html
+- :jp: 東京大学 信号処理特論 音楽情報処理 by 中村友彦先生  https://tomohikonakamura.github.io/Tomohiko-Nakamura/lecture.html
 - :jp: GTTM(Generative Theory of Tonal Music)  https://gttm.jp/hamanaka/exgttm/
 
 ## サーベイ論文等
