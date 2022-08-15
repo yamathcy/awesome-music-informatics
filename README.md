@@ -66,7 +66,7 @@ If you want to add new information to this list, please inform at issues.
 - Meyda https://github.com/meyda/meyda
 
 ## Datasets
-- Audio Content Analysis http://www.audiocontentanalysis.org/data-sets/
+- Audio Content Analysis http://www.audiocontentanalysis.org/datasets/
 - ISMIR Datasets https://ismir.net/resources/datasets/
 - SigSep Multi-track https://sigsep.github.io/datasets/
 - UPF-MTG datasets https://www.upf.edu/web/mtg/software-datasets
