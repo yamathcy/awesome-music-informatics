@@ -111,8 +111,11 @@ If you want to add new information to this list, please inform at issues.
 https://github.com/juansgomez87/datasets_emotion, https://ieeexplore.ieee.org/document/9591555
 - A Survey of Music Visualization Techniques., Lima et al., 2021 https://dl.acm.org/doi/pdf/10.1145/3461835
 - Expression Control in Singing Voice Synthesis: Features, approaches, evaluation, and challenges., Bonada et al. 2015 https://ieeexplore.ieee.org/abstract/document/7298564
-- A Comprehensive Survey on Deep Music Generation: Multi-level Representations, Algorithms, Evaluations, and Future Directions Ji et al., 2020 https://arxiv.org/abs/2011.06801
+- A Comprehensive Survey on Deep Music Generation: Multi-level Representations, Algorithms, Evaluations, and Future Directions, Ji et al., 2020 https://arxiv.org/abs/2011.06801
 - TOWARDS A (BETTER) DEFINITION OF THE DESCRIPTION OF ANNOTATED MIR CORPORA., Peeters et al., 2012 https://ismir2012.ismir.net/event/papers/025_ISMIR_2012.pdf 
+- Deep Learning Approaches in Topics of Singing Information Processing, C. Gupta et al., 2022
+https://ieeexplore.ieee.org/document/9829265
+
 
 ## Awesomes
 - awesome-awesome https://github.com/sindresorhus/awesome
@@ -124,6 +127,8 @@ https://github.com/juansgomez87/datasets_emotion, https://ieeexplore.ieee.org/do
 - awesome-web-audio https://github.com/notthetup/awesome-webaudio
 - awesome-musicdsp https://github.com/olilarkin/awesome-musicdsp
 - awesome-data-labeling https://github.com/heartexlabs/awesome-data-labeling
+- ai-audio-startups https://github.com/csteinmetz1/ai-audio-startups
+
 
 ## Other 
 - Music Technology conference list http://conferences.smcnetwork.org/
