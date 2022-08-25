@@ -27,6 +27,7 @@ If you want to add new information to this list, please inform at issues.
 - miditok https://github.com/Natooz/MidiTok MIDI tokenization for DNNs
 - miditoolkit: https://github.com/YatingMusic/miditoolkit MIDI parser for handling both eventswith symbolic timing and piano-rolls
 - note_seq https://github.com/magenta/note-seq MIDI data manipulating and converting for for ML model training (e.g., one-hot tensors)
+- partitura https://github.com/CPJKU/partitura Python package for handling symbolic musical information
 
 ### Deep learning
 - Torchaudio https://pytorch.org/audio/stable/index.html Audio library with pytorch
