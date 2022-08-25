@@ -134,7 +134,14 @@ https://ieeexplore.ieee.org/document/9829265
 - awesome-web-audio https://github.com/notthetup/awesome-webaudio
 - awesome-musicdsp https://github.com/olilarkin/awesome-musicdsp
 - awesome-data-labeling https://github.com/heartexlabs/awesome-data-labeling
+
+
+## Github repositories
 - ai-audio-startups https://github.com/csteinmetz1/ai-audio-startups
+- Art with AI cource https://github.com/mathigatti/ArtWithAICourse
+- Music creation with DL https://github.com/umbrellabeach/music-generation-with-DL
+- Hands on music generation with magenta https://github.com/PacktPublishing/hands-on-music-generation-with-magenta
+
 
 
 ## Other 
