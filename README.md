@@ -89,6 +89,7 @@ If you want to add new information to this list, please inform at issues.
 - Open Source Tools & Data for Music Source Separation https://source-separation.github.io/tutorial/intro/src_sep_101.html
 - Music-Recommendation-Tutorial-2017 https://www.slideshare.net/FabienGouyon/musicrecommendationtutorial2017
 - Music and Human-Computer Interaction https://link.springer.com/book/10.1007/978-1-4471-2990-5
+- Music + AI Reading Group https://www.youtube.com/channel/UCdrzCFRsIFGw2fiItAk5_Og/videos
 
 ## Review papers
 - Content-Based Music Information Retrieval: Current Directions and Future Challenges, Casey et al., 2008 https://ieeexplore.ieee.org/document/4472077?tp=&arnumber=4472077
