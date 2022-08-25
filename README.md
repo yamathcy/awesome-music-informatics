@@ -140,6 +140,7 @@ https://ieeexplore.ieee.org/document/9829265
 ## Other 
 - Music Technology conference list http://conferences.smcnetwork.org/
 - ISMIR community https://ismir.net/about/
+- ISMIR 2021 Lab showcase https://ismir2021.ismir.net/labshowcase/
 
 ## License
 
