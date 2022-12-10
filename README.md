@@ -65,6 +65,8 @@ If you want to add new information to this list, please inform at issues.
 - Demucs https://github.com/facebookresearch/demucs
 - Basic Pitch https://basicpitch.spotify.com/
 - Meyda https://github.com/meyda/meyda
+- Visualization for AI-assisted composition https://visvar.github.io/vis-ai-comp/
+- Sheetsage https://github.com/chrisdonahue/sheetsage
 
 ## Datasets
 - Audio Content Analysis http://www.audiocontentanalysis.org/datasets.html
@@ -74,6 +76,7 @@ If you want to add new information to this list, please inform at issues.
 - paperwithcode https://paperswithcode.com/
 - MCR https://github.com/dharasim/MCR/wiki
 - FMA: A Dataset For Music Analysis https://github.com/mdeff/fma
+- ismir2022-datasets: https://github.com/otnemrasordep/ismir2022-datasets
 
 ## Book/Lecture/Tutorial
 - Fundamentals of Music Processing https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP (Jupyter notebook: https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
