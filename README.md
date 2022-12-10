@@ -77,6 +77,7 @@ If you want to add new information to this list, please inform at issues.
 - MCR https://github.com/dharasim/MCR/wiki
 - FMA: A Dataset For Music Analysis https://github.com/mdeff/fma
 - ismir2022-datasets: https://github.com/otnemrasordep/ismir2022-datasets
+- DadaGP https://github.com/dada-bots/dadaGP
 
 ## Book/Lecture/Tutorial
 - Fundamentals of Music Processing https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP (Jupyter notebook: https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
