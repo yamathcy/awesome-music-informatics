@@ -49,6 +49,7 @@ If you want to add new information to this list, please inform at issues.
 - DDSP https://magenta.tensorflow.org/ddsp Differentiable Digital Signal Processing
 - ALTA https://github.com/emirdemirel/ALTA Music lyric transcription recipe
 - Muskit https://github.com/SJTMusicTeam/Muskits Open-source music processing toolkits
+- compIAM https://github.com/MTG/compIAM computational tools for Indian music
 
 ## Other Resource 
 - Tony https://www.sonicvisualiser.org/tony/ 
