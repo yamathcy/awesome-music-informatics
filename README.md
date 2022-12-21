@@ -102,6 +102,7 @@ If you want to add new information to this list, please inform at issues.
   - Computational Music Structure Analysis 2016 https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=16092
   - Computational Methods for Melody and Voice Processing in Music Recordings 2019 https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19052
   - Deep Learning and Knowledge Integration for Music Audio Analysis 2022 https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22082
+- Singing and AI https://www.youtube.com/@singingandai7016
 
 ## Review papers
 - Content-Based Music Information Retrieval: Current Directions and Future Challenges, Casey et al., 2008 https://ieeexplore.ieee.org/document/4472077?tp=&arnumber=4472077
@@ -149,6 +150,10 @@ https://ieeexplore.ieee.org/document/9829265
 - Music creation with DL https://github.com/umbrellabeach/music-generation-with-DL
 - Hands on music generation with magenta https://github.com/PacktPublishing/hands-on-music-generation-with-magenta
 - genmusic_demo_list https://github.com/affige/genmusic_demo_list
+
+## Paper submission
+- Preparing a Successful ISMIR Submission https://ismir2021.ismir.net/blog/preparing/
+- Reviewing ISMIR Papers: Some Personal Thoughts (Meinard Müller) https://www.youtube.com/watch?v=hSsVktr1huQ
 
 ## Other 
 - Music Technology conference list http://conferences.smcnetwork.org/
