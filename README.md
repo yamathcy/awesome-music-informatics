@@ -68,6 +68,8 @@ If you want to add new information to this list, please inform at issues.
 - Meyda https://github.com/meyda/meyda
 - Visualization for AI-assisted composition https://visvar.github.io/vis-ai-comp/
 - Sheetsage https://github.com/chrisdonahue/sheetsage
+- Song Describer https://github.com/ilaria-manco/song-describer
+- Essentia API https://github.com/CDrummond/essentia-api
 
 ## Datasets
 - Audio Content Analysis http://www.audiocontentanalysis.org/datasets.html
@@ -94,7 +96,7 @@ If you want to add new information to this list, please inform at issues.
 - Open Source Tools & Data for Music Source Separation https://source-separation.github.io/tutorial/intro/src_sep_101.html
 - Music-Recommendation-Tutorial-2017 https://www.slideshare.net/FabienGouyon/musicrecommendationtutorial2017
 - Music and Human-Computer Interaction https://link.springer.com/book/10.1007/978-1-4471-2990-5
-- Music + AI Reading Group https://www.youtube.com/channel/UCdrzCFRsIFGw2fiItAk5_Og/videos
+- Music + AI Reading Group (MILA) https://www.youtube.com/channel/UCdrzCFRsIFGw2fiItAk5_Og/videos
 - Dagstuhl Seminar Series 
   - Multimodal Music Processing 2011 https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=11041
   - Computational Music Structure Analysis 2016 https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=16092
@@ -128,7 +130,6 @@ https://github.com/juansgomez87/datasets_emotion, https://ieeexplore.ieee.org/do
 - Deep Learning Approaches in Topics of Singing Information Processing, C. Gupta et al., 2022
 https://ieeexplore.ieee.org/document/9829265
 
-
 ## Awesomes
 - awesome-awesome https://github.com/sindresorhus/awesome
 - awesome-python-scientific-audio https://github.com/faroit/awesome-python-scientific-audio#music-information-retrieval
@@ -146,8 +147,8 @@ https://ieeexplore.ieee.org/document/9829265
 - Art with AI cource https://github.com/mathigatti/ArtWithAICourse
 - Music creation with DL https://github.com/umbrellabeach/music-generation-with-DL
 - Hands on music generation with magenta https://github.com/PacktPublishing/hands-on-music-generation-with-magenta
-
-
+- genmusic_demo_list https://github.com/affige/genmusic_demo_list
+- Awesome Singing Voice Synthesis and Singing Voice Conversion https://github.com/guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion
 
 ## Other 
 - Music Technology conference list http://conferences.smcnetwork.org/
