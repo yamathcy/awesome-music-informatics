@@ -140,6 +140,7 @@ https://ieeexplore.ieee.org/document/9829265
 - awesome-web-audio https://github.com/notthetup/awesome-webaudio
 - awesome-musicdsp https://github.com/olilarkin/awesome-musicdsp
 - awesome-data-labeling https://github.com/heartexlabs/awesome-data-labeling
+- Awesome Singing Voice Synthesis and Singing Voice Conversion https://github.com/guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion
 
 
 ## Github repositories
@@ -148,7 +149,6 @@ https://ieeexplore.ieee.org/document/9829265
 - Music creation with DL https://github.com/umbrellabeach/music-generation-with-DL
 - Hands on music generation with magenta https://github.com/PacktPublishing/hands-on-music-generation-with-magenta
 - genmusic_demo_list https://github.com/affige/genmusic_demo_list
-- Awesome Singing Voice Synthesis and Singing Voice Conversion https://github.com/guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion
 
 ## Other 
 - Music Technology conference list http://conferences.smcnetwork.org/
