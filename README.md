@@ -70,6 +70,7 @@ If you want to add new information to this list, please inform at issues.
 - Sheetsage https://github.com/chrisdonahue/sheetsage
 - Song Describer https://github.com/ilaria-manco/song-describer
 - Essentia API https://github.com/CDrummond/essentia-api
+- Riffusion https://www.riffusion.com/
 
 ## Datasets
 - Audio Content Analysis http://www.audiocontentanalysis.org/datasets.html
@@ -150,6 +151,8 @@ https://ieeexplore.ieee.org/document/9829265
 - Music creation with DL https://github.com/umbrellabeach/music-generation-with-DL
 - Hands on music generation with magenta https://github.com/PacktPublishing/hands-on-music-generation-with-magenta
 - genmusic_demo_list https://github.com/affige/genmusic_demo_list
+- multimodal learning for music https://github.com/ilaria-manco/multimodal-ml-music
+
 
 ## Paper submission
 - Preparing a Successful ISMIR Submission https://ismir2021.ismir.net/blog/preparing/
