@@ -152,7 +152,7 @@ https://ieeexplore.ieee.org/document/9829265
 - Hands on music generation with magenta https://github.com/PacktPublishing/hands-on-music-generation-with-magenta
 - genmusic_demo_list https://github.com/affige/genmusic_demo_list
 - multimodal learning for music https://github.com/ilaria-manco/multimodal-ml-music
-
+- Audio AI timeline (from 2023) https://github.com/archinetai/audio-ai-timeline
 
 ## Paper submission
 - Preparing a Successful ISMIR Submission https://ismir2021.ismir.net/blog/preparing/
