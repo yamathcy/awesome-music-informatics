@@ -153,6 +153,7 @@ https://ieeexplore.ieee.org/document/9829265
 - genmusic_demo_list https://github.com/affige/genmusic_demo_list
 - multimodal learning for music https://github.com/ilaria-manco/multimodal-ml-music
 - Audio AI timeline (from 2023) https://github.com/archinetai/audio-ai-timeline
+- Deep learning music generation https://github.com/carlosholivan/DeepLearningMusicGeneration
 
 ## Paper submission
 - Preparing a Successful ISMIR Submission https://ismir2021.ismir.net/blog/preparing/
