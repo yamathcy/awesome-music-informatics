@@ -132,6 +132,7 @@ https://github.com/juansgomez87/datasets_emotion, https://ieeexplore.ieee.org/do
 - Deep Learning Approaches in Topics of Singing Information Processing, C. Gupta et al., 2022
 https://ieeexplore.ieee.org/document/9829265
 
+
 ## Awesomes
 - awesome-awesome https://github.com/sindresorhus/awesome
 - awesome-python-scientific-audio https://github.com/faroit/awesome-python-scientific-audio#music-information-retrieval
@@ -153,16 +154,19 @@ https://ieeexplore.ieee.org/document/9829265
 - genmusic_demo_list https://github.com/affige/genmusic_demo_list
 - multimodal learning for music https://github.com/ilaria-manco/multimodal-ml-music
 - Audio AI timeline (from 2023) https://github.com/archinetai/audio-ai-timeline
-- Deep learning music generation https://github.com/carlosholivan/DeepLearningMusicGeneration
+- Deep learning for music generation https://github.com/carlosholivan/DeepLearningMusicGeneration
+
 
 ## Paper submission
 - Preparing a Successful ISMIR Submission https://ismir2021.ismir.net/blog/preparing/
 - Reviewing ISMIR Papers: Some Personal Thoughts (Meinard Müller) https://www.youtube.com/watch?v=hSsVktr1huQ
 
+
 ## Other 
 - Music Technology conference list http://conferences.smcnetwork.org/
 - ISMIR community https://ismir.net/about/
 - ISMIR 2021 Lab showcase https://ismir2021.ismir.net/labshowcase/
+- Song describer https://song-describer.streamlit.app/
 
 ## License
 
