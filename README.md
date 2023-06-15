@@ -17,6 +17,9 @@ If you want to add new information to this list, please inform at issues.
 - kymatio https://www.kymat.io/ Wavelet scattering transform
 - pysndfx https://pypi.org/project/pysndfx/ audio effect
 - nnmnkwii https://github.com/r9y9/nnmnkwii speech synthesis
+- Audiocraft https://github.com/facebookresearch/audiocraft PyTorch library for deep learning research on audio generation
+- audiotools https://github.com/descriptinc/audiotools Object-oriented handling of audio signals, with fast augmentation routines, batching, padding, and more.
+- 
 
 ### Symbolic
 - music21 https://web.mit.edu/music21/ Musicxml handling and musicological analysis
@@ -104,7 +107,8 @@ If you want to add new information to this list, please inform at issues.
   - Computational Methods for Melody and Voice Processing in Music Recordings 2019 https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19052
   - Deep Learning and Knowledge Integration for Music Audio Analysis 2022 https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22082
 - Singing and AI https://www.youtube.com/@singingandai7016
-
+- Creative ML https://github.com/acids-ircam/creative_ml
+  
 ## Review papers
 - Content-Based Music Information Retrieval: Current Directions and Future Challenges, Casey et al., 2008 https://ieeexplore.ieee.org/document/4472077?tp=&arnumber=4472077
 - A Survey of Music Recommendation Systems and Future Perspectives Song et al., 2012 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.414.6614&rep=rep1&type=pdf
@@ -155,7 +159,7 @@ https://ieeexplore.ieee.org/document/9829265
 - multimodal learning for music https://github.com/ilaria-manco/multimodal-ml-music
 - Audio AI timeline (from 2023) https://github.com/archinetai/audio-ai-timeline
 - Deep learning for music generation https://github.com/carlosholivan/DeepLearningMusicGeneration
-
+- MIR-AIDJ https://github.com/mir-aidj
 
 ## Paper submission
 - Preparing a Successful ISMIR Submission https://ismir2021.ismir.net/blog/preparing/
