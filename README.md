@@ -158,6 +158,7 @@ https://ieeexplore.ieee.org/document/9829265
 - genmusic_demo_list https://github.com/affige/genmusic_demo_list
 - multimodal learning for music https://github.com/ilaria-manco/multimodal-ml-music
 - Audio AI timeline (from 2023) https://github.com/archinetai/audio-ai-timeline
+- Audio Development Tools (ADT) 🔥 https://github.com/Yuan-ManX/audio-development-tools
 - Deep learning for music generation https://github.com/carlosholivan/DeepLearningMusicGeneration
 - MIR-AIDJ https://github.com/mir-aidj
 
