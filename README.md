@@ -19,7 +19,7 @@ If you want to add new information to this list, please inform at issues.
 - nnmnkwii https://github.com/r9y9/nnmnkwii speech synthesis
 - Audiocraft https://github.com/facebookresearch/audiocraft PyTorch library for deep learning research on audio generation
 - audiotools https://github.com/descriptinc/audiotools Object-oriented handling of audio signals, with fast augmentation routines, batching, padding, and more.
-- 
+- SouPyX https://github.com/Yuan-ManX/SouPyX Audio Processing Library
 
 ### Symbolic
 - music21 https://web.mit.edu/music21/ Musicxml handling and musicological analysis
