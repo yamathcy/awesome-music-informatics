@@ -54,7 +54,9 @@ If you want to add new information to this list, please inform at issues.
 - Muskit https://github.com/SJTMusicTeam/Muskits Open-source music processing toolkits
 - compIAM https://github.com/MTG/compIAM computational tools for Indian music
 
-## Other Resource 
+## Other Resource
+
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrumental tracks using AI 
 - Tony https://www.sonicvisualiser.org/tony/ 
 - Sonic Visualiser https://www.sonicvisualiser.org/documentation.html
 - sox http://sox.sourceforge.net/
