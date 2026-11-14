@@ -179,3 +179,4 @@ https://ieeexplore.ieee.org/document/9829265
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Yuya Yamamoto](https://sites.google.com/view/yamathcy) has waived all copyright and related or neighboring rights to this work.
+- [FM-1 Emulator](https://fm1-emulator.atst.tools/) - Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares
