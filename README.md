@@ -55,6 +55,8 @@ If you want to add new information to this list, please inform at issues.
 - compIAM https://github.com/MTG/compIAM computational tools for Indian music
 
 ## Other Resource 
+
+- [No Stairs Please](https://nostairsplease.com/) - Live-music venue and booking contact directory covering 1,700+ independent and under-400-capacity venues across all 50 US states, DC, and BC, with a public [MCP server](https://nostairsplease.com/mcp).
 - Tony https://www.sonicvisualiser.org/tony/ 
 - Sonic Visualiser https://www.sonicvisualiser.org/documentation.html
 - sox http://sox.sourceforge.net/
